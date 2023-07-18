@@ -1,3 +1,20 @@
+*{
+    background-color: deepskyblue;
+}
+
+.title {
+    color: teal;
+    font-family: cursive;
+}
+
+h1 {
+    color:skyblue;
+}
+h2{
+    color:aqua;
+}
+
 p {
-    font-family: Arial, Helvetica, sans-serif;
+
+    color: green;
 }
