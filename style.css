@@ -1,20 +1,7 @@
-*{
-    background-color: deepskyblue;
+body{
+    background-color: rgb(234, 222, 197);
 }
 
-.title {
-    color: teal;
-    font-family: cursive;
-}
-
-h1 {
-    color:skyblue;
-}
-h2{
-    color:aqua;
-}
-
-p {
-
-    color: green;
+head{
+    background-color: rgb(132, 219, 241);
 }
